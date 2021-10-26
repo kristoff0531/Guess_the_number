@@ -20,7 +20,7 @@ class game1 {
 
         public void isThat() {
             if (this.user == this.random) {
-                System.out.println("congratulations !! you have got it...");
+                System.out.println("congratulations !! you have won...");
             }
 
             if (this.user > this.random) {
